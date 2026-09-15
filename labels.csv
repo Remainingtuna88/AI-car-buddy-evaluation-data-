@@ -1,0 +1,160 @@
+filename,shirt_color,person_present,distance,room,lighting,clip_id,usable,notes
+frame_0001.jpg,white,1,close,bedroom_01,daylight_window,clip01,1,"close range, entering"
+frame_0002.jpg,white,1,close,bedroom_01,daylight_window,clip01,1,"close range, entering"
+frame_0003.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0004.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0005.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0006.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0007.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0008.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0009.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0010.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0011.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0012.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0013.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0014.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0015.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0016.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0017.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0018.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0019.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0020.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0021.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0022.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0023.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0024.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0025.jpg,white,1,close,bedroom_01,daylight_window,clip01,1,
+frame_0026.jpg,white,1,close,bedroom_01,daylight_window,clip01,1,
+frame_0027.jpg,white,1,close,bedroom_01,daylight_window,clip01,1,
+frame_0028.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0029.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0030.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0031.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0032.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0033.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0034.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0035.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0036.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0037.jpg,white,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0038.jpg,white,1,close,bedroom_01,daylight_window,clip01,1,
+frame_0039.jpg,white,1,mid,bedroom_01,daylight_window,clip01,0,"motion blur, exiting frame"
+frame_0040.jpg,white,1,mid,bedroom_01,daylight_window,clip01,0,"motion blur, exiting frame"
+frame_0041.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0042.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0043.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0044.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0045.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0046.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0047.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0048.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0049.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0050.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0051.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0052.jpg,red,1,mid,bedroom_01,daylight_window,clip01,0,"motion blur, entering"
+frame_0053.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0054.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0055.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0056.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0057.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0058.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0059.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0060.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0061.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0062.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0063.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0064.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0065.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0066.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0067.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0068.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0069.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0070.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0071.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0072.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0073.jpg,red,1,close,bedroom_01,daylight_window,clip01,1,
+frame_0074.jpg,red,1,close,bedroom_01,daylight_window,clip01,1,
+frame_0075.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0076.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0077.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0078.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0079.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0080.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0081.jpg,red,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0082.jpg,red,1,mid,bedroom_01,daylight_window,clip01,0,"motion blur, exiting frame"
+frame_0083.jpg,red,1,mid,bedroom_01,daylight_window,clip01,0,"motion blur, exiting frame"
+frame_0084.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0085.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0086.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0087.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0088.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0089.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0090.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0091.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0092.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0093.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0094.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0095.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0096.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0097.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0098.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0099.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0100.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0101.jpg,green,1,mid,bedroom_01,daylight_window,clip01,0,"motion blur, entering"
+frame_0102.jpg,green,1,mid,bedroom_01,daylight_window,clip01,0,"motion blur, entering"
+frame_0103.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0104.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0105.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0106.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0107.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0108.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0109.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0110.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0111.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0112.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0113.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0114.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0115.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0116.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0117.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0118.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0119.jpg,green,1,close,bedroom_01,daylight_window,clip01,1,
+frame_0120.jpg,green,1,close,bedroom_01,daylight_window,clip01,1,
+frame_0121.jpg,green,1,close,bedroom_01,daylight_window,clip01,1,
+frame_0122.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0123.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0124.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0125.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0126.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0127.jpg,green,1,mid,bedroom_01,daylight_window,clip01,1,
+frame_0128.jpg,green,1,mid,bedroom_01,daylight_window,clip01,0,"motion blur, exiting frame"
+frame_0129.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0130.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0131.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0132.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0133.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0134.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0135.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0136.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0137.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0138.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0139.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0140.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0141.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0142.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0143.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0144.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0145.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0146.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0147.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0148.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0149.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0150.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0151.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0152.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0153.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0154.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0155.jpg,none,0,n/a,bedroom_01,daylight_window,clip01,1,empty room
+frame_0156.jpg,gray,1,mid,bedroom_01,daylight_window,clip01,0,"motion blur, entering; 4th shirt, only 1 frame"
+frame_0157.jpg,white,1,close,bedroom_01,daylight_window,clip01,0,"motion blur, very close"
+frame_0158.jpg,white,1,close,bedroom_01,daylight_window,clip01,1,"very close, torso only"
+frame_0159.jpg,white,1,close,bedroom_01,daylight_window,clip01,1,"very close, torso only"
